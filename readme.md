@@ -14,7 +14,7 @@ This work is copyrighted by BetaNYC, via the Fund for the City of New York, and 
 
 There are four types of cards: Action cards, Column cards, Data Value cards, and Story cards. 
 
-The goal is to sequence action, column, and data value cards to answer the story card. If you want to enrich the playing experience, you should either explore the [sample data via a spreadsheet]9https://github.com/BetaNYC/cards-for-community/tree/master/sample%20data application or use the [NYC 311 open data dataset](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9/data). Playing the these will teach you about data analysis, specific analytical functions, and NYC's government.
+The goal is to sequence action, column, and data value cards to answer the story card. If you want to enrich the playing experience, you should either explore the [sample data via a spreadsheet](https://github.com/BetaNYC/cards-for-community/tree/master/sample%20data) application or use the [NYC 311 open data dataset](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9/data). Playing the these will teach you about data analysis, specific analytical functions, and NYC's government.
 
 1. Sort cards into piles: Action, Column Name, Data Value and Story. 
 1. Choose a Story card.
@@ -33,9 +33,9 @@ These are the most up to date version of the cards. These art decks need to be c
 
 These files can be printed via any printer. (Note - these are too big to store on github. You can download them from our [open google drive](https://drive.google.com/open?id=0B98QOZfGax93RUlLNjloYS1Tb3c).)
 
-Data source - [NYC 311 Service Request data](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9/data) - from NYC’s Open Data portal
+***Data source*** - [NYC 311 Service Request data](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9/data) - from NYC’s Open Data portal
 
-Data dictionary terms - [NYC 311 Service Request data](https://data.cityofnewyork.us/api/views/erm2-nwe9/files/1c02701c-39b4-4365-837b-36f785eb33db?download=true&filename=311%20SR%20Data%20Dictionary.xlsx) - from NYC’s Open Data portal
+***Data dictionary terms*** - [NYC 311 Service Request data](https://data.cityofnewyork.us/api/views/erm2-nwe9/files/1c02701c-39b4-4365-837b-36f785eb33db?download=true&filename=311%20SR%20Data%20Dictionary.xlsx) - from NYC’s Open Data portal
 
 # Contributors
 
@@ -47,7 +47,7 @@ Data dictionary terms - [NYC 311 Service Request data](https://data.cityofnewyor
  * Katie Edmonds
  
 *Funders*
-These cards were produced as part of [NYC's Civic Innovation Lab](https://beta.nyc/programs/civic-innovation-lab/) with generous support from the (Alfred P. Sloan Foundation)[https://sloan.org/].
+ * These cards were produced as part of [NYC's Civic Innovation Lab](https://beta.nyc/programs/civic-innovation-lab/) with generous support from the (Alfred P. Sloan Foundation)[https://sloan.org/].
 
 # Issues
  * [See the issues we are working on](https://github.com/BetaNYC/cards-for-community/issues)
